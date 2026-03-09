@@ -65,7 +65,19 @@ Key mechanisms:
 - **Energy Efficiency** – BLE advertising intervals minimize battery usage.
 
 ---
+## Application Interface
 
-# Project Structure
+### Home Screen
+<p align="center">
+  <img src="images/home.jpeg" width="600">
+</p>
 
-```
+### Secure Chat Interface
+<p align="center">
+  <img src="images/chat.jpeg" width="600">
+</p>
+
+### Network Diagnostics
+<p align="center">
+  <img src="images/diagnostics.jpeg" width="600">
+</p>
