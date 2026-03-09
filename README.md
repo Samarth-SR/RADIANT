@@ -69,15 +69,15 @@ Key mechanisms:
 
 ### Home Screen
 <p align="center">
-  <img src="images/home.jpeg" width="200">
+  <img src="images/home.jpeg" width="400">
 </p>
 
 ### Secure Chat Interface
 <p align="center">
-  <img src="images/chat.jpeg" width="200">
+  <img src="images/chat.jpeg" width="400">
 </p>
 
 ### Network Diagnostics
 <p align="center">
-  <img src="images/diagnostics.jpeg" width="200">
+  <img src="images/diagnostics.jpeg" width="400">
 </p>
