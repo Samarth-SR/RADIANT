@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Radiant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/radiant_amber</item>
+        <item name="colorPrimaryVariant">@color/radiant_orange</item>
+        <item name="colorOnPrimary">@color/void_black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/radiant_orange</item>
+        <item name="colorOnSecondary">@color/void_black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/void_black</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@color/void_black</item>
+    </style>
+</resources>

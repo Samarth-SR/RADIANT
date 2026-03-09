@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Radiant Brand Colors -->
+    <color name="radiant_amber">#FFB74D</color>
+    <color name="radiant_orange">#F57C00</color>
+
+    <!-- Backgrounds -->
+    <color name="void_black">#121212</color>
+    <color name="surface_grey">#1E1E1E</color>
+    <color name="input_grey">#2C2C2C</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+
+    <!-- Standard System Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme Mapping -->
+    <color name="colorPrimary">@color/radiant_amber</color>
+    <color name="colorPrimaryVariant">@color/radiant_orange</color>
+    <color name="colorOnPrimary">@color/void_black</color>
+    <color name="colorSecondary">@color/radiant_orange</color>
+    <color name="colorOnSecondary">@color/void_black</color>
+</resources>
